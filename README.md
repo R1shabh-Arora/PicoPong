@@ -9,3 +9,5 @@ The game features dynamic ball movement and realistic collisions, providing an e
 PicoPing also includes a single-player mode, where you can test your skills against a computer-controlled opponent. Can you outwit the AI and emerge as the ultimate PicoPing champion?
 
 Experience the thrill of classic arcade gaming with PicoPing. Gather your friends, challenge yourself, and enjoy the timeless fun of Pong on the PicoDisplay. Get ready to PicoPing your way to victory!
+
+![Uploading IMG_5622_MOV_AdobeExpress.gif…]()
