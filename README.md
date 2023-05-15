@@ -10,4 +10,5 @@ PicoPing also includes a single-player mode, where you can test your skills agai
 
 Experience the thrill of classic arcade gaming with PicoPing. Gather your friends, challenge yourself, and enjoy the timeless fun of Pong on the PicoDisplay. Get ready to PicoPing your way to victory!
 
-![Uploading IMG_5622_MOV_AdobeExpress.gif…]()
+
+![IMG_5622_MOV_AdobeExpress](https://github.com/R1shabh-Arora/PicoPong/assets/44057382/4cc0e3e0-f2cb-46b4-96e0-926c23c878d8)
